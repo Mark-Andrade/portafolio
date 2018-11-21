@@ -49,3 +49,7 @@
     animation-name: fadeInDown;
   }
   
+  svg path,
+  svg rect{
+    fill: purple;
+  }
